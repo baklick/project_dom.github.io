@@ -1,0 +1,39 @@
+.menu_text{
+	display: inline;
+	font-size: 13px;
+	font-weight: ;
+	font-family: 'Roboto' , sans-serif;
+}
+.logo_top{
+	width: 52px;
+	height: 54px;
+	background: #121212;
+	margin-left: 45px;
+}
+.menu_text_logo{
+	color: #ffffff;
+	font-family: 'Roboto' , sans-serif;
+	padding-top: 3px;
+	padding-left: 12px;
+}
+.passion{
+	text-align: center;
+	margin-top: 300px;
+	font-family: 'Roboto' , sans-serif;
+	font-weight: lighter;
+	font-size: 44px;
+	margin-bottom: 0px;
+}
+.just_text{
+	margin-top: 0px;
+	text-align: center;
+	margin-bottom: 45px;
+}
+.read_more{
+	width: 188px;
+	height: 57px;
+	background-color: #ffff;
+	font-size: 13px;
+	font-weight: 700;
+	margin-left: 175px;
+}
